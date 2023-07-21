@@ -1,0 +1,5 @@
+source /home/deng/emsdk/emsdk_env.sh
+
+
+em++ main.cpp -o index.html
+
